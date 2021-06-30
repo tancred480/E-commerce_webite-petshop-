@@ -1,8 +1,8 @@
 
-#### Petshop Website
-### This website built using React as a Front end part and Node js as backEnd.
+# Petshop Website(E-Commerce WebApplication)
+## This website built using React as a Front end part and Node js as backEnd.
 
-### WEBSITE PAGES
+## WEBSITE PAGES
 
 ## 1.Home Page 
 ![Screenshot (712)](https://user-images.githubusercontent.com/45851821/112622421-06a67700-8e51-11eb-9465-23229d960104.png)
